@@ -54,3 +54,4 @@ This list is sorted in the order that organizations were added to it.
 | [SAP](https://sap.com/) | [d.small@sap.com](mailto:d.small@sap.com)| [SAP](https://sap.com) uses Crossplane as part of a solution that gives teams owning micro-services the ability to provision hyper-scaler hosted backing services such as Redis on demand. |
 | [Airnity](https://airnity.com/) | [hello@airnity.com](mailto:hello@airnity.com) | [Airnity](https://airnity.com/) uses Crossplane to deploy a worldwide cellular connectivity platform for the automotive industry. |
 | [Intility](https://intility.com/) | @daniwk @JonasKs | We orchestrate our metacloud's infrastructure using Crossplane. |
+| [Imagine Learning](https://www.imaginelearning.com/) | @blakeromano [blake.romano@imaginelearning.com](mailto:blake.romano@imaginelearning.com) | Control Plane for Infrastructure in Internal Developer Platform |
